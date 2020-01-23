@@ -1,2 +1,2 @@
-# Portfolio-with-javascript
+# Simple portfolio
  Portfolio developed with JavaScript and Bootstrap.
